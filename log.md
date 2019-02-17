@@ -34,6 +34,3 @@
 
 **Today's Progress**: Worked on 10 days of Javascript and Chrome Dev Tools.
 
-**Thoughts:** Working on getting basics strong.
-
-**Link to work:** MDN
